@@ -1,0 +1,1 @@
+# Covid-19-Weekly-Foot-Traffic-Prediction
